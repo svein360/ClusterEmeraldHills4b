@@ -5,7 +5,7 @@
 ### Description
 
 ### Title
-tour.name = 360 Interior Lavia Living 5x12
+tour.name = 360 Cluster Emerald Hills 4b
 
 ## Media
 
