@@ -1,0 +1,18 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = 360 Interior Lavia Living 5x12
+
+## Media
+
+### Title
+map_13615674_07ED_AB68_4183_6A1F59C7DB84.label = Denah_L6_Dasar
+map_14D23E69_07EC_FB79_4197_4BF22FCC91D7.label = Denah_L6_Atas
+map_15D84912_07ED_A6AB_4198_43C40053C701.label = Denah_L7_Dasar
+map_15DC176D_07ED_A978_4190_EF825E183BF5.label = Denah_L7_Atas
+panorama_093A47FF_07B4_A958_4188_DC313236C4FE.label = Cluster Emerald Hills 4b Tipe L6
+panorama_093D9E9D_07B4_DBD8_4197_E0022D80B8DA.label = Cluster Emerald Hills 4b Tipe L7
