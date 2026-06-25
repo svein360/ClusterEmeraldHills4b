@@ -36,5 +36,5 @@ panorama_EDEBA470_CA4A_7567_41D2_3D0F3BD63280.label = Lantai 1 - Bedroom
 panorama_EDEC2E36_CA4A_54EB_41E2_BFAF8A61CE02.label = Lantai 1 - Dining
 panorama_EDEC7139_CA4A_6CD9_417C_62B925ABDE46.label = Lantai 1 - Living
 panorama_EDEC8B51_CA4A_BCA9_41E0_F713C85C6455.label = Lantai 1 - Area Laundry
-panorama_F1919F05_FEE5_FF9E_41E3_0751FAC86368.label = Emerald Hills Tipe L7
+panorama_EEF1DDA7_FF2D_429B_41E5_18452EDFA7B5.label = Emerald Hills Tipe L7
 panorama_F1D512EA_FEE5_C695_41E7_16BD04E5C8A6.label = Emerald Hills Tipe L6
