@@ -1,0 +1,40 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = 360 Cluster Emerald Hills 4b
+
+## Media
+
+### Title
+map_0F7C1A2C_01C3_880E_412F_403B60C72680.label = MASTERPLAN EMERALD HILLS
+map_13615674_07ED_AB68_4183_6A1F59C7DB84.label = Denah L6 Dasar
+map_14D23E69_07EC_FB79_4197_4BF22FCC91D7.label = Denah L6 Atas
+map_15D84912_07ED_A6AB_4198_43C40053C701.label = Denah L7 Dasar
+map_15DC176D_07ED_A978_4190_EF825E183BF5.label = Denah L7 Atas
+panorama_0A4E1F20_01BE_8835_4176_3187F080D328.label = Emerald Hills Tipe L7
+panorama_C130D8D7_CA3A_5DA9_41D4_414C85F1A076.label = Lantai 1 - Area Laundry
+panorama_C13107D1_CA3A_B3A9_41D1_B42DB0F1E818.label = Lantai 1 - Living
+panorama_C137BB30_CA3A_BCE7_41BB_1C6B5E2D8B4B.label = Lantai 1 - Bedroom
+panorama_C1E5414C_CA3A_ACBF_41D1_1C70B83CF9B5.label = Lantai 1 - Bathroom
+panorama_D17BF61A_CA7B_D4DB_41C2_04A851827AA0.label = Lantai 2 - Bathroom
+panorama_DA86FC12_CA20_C48E_41E7_24FB4F8F2C82.label = Lantai 1 - Dining
+panorama_DD7756A4_CA5A_75EF_41CF_F97F2ADF9274.label = Lantai 2 - Bedroom 02
+panorama_DF89213A_CA5A_6CDB_41D8_5FC7E067166A.label = Lantai 2 - Bedroom 03
+panorama_DF8AEBAF_CA5A_B3F9_41D3_883B4B31BB42.label = Lantai 2 - Ruang Tangga
+panorama_DF8B8E01_CA5A_54A9_41E1_3AE66AD27A4E.label = Lantai 2 - Master Bedroom
+panorama_E36B5B1A_CA4A_5CDB_41E8_51920FD10742.label = Lantai 1 - Bathroom
+panorama_E47CB573_CADE_B769_41E1_825C387BBFEF.label = Lantai 2 - Bathroom 01
+panorama_E6252C58_CADE_B4A7_41D5_8DA012537947.label = Lantai 2 - Ruang Tangga
+panorama_E6254C42_CADE_D4AB_41D4_9696450CC1F9.label = Lantai 2 - Bedroom 03
+panorama_E6257D0E_CADE_F4BB_41C5_F024DAB2B7D7.label = Lantai 2 - Bedroom 02
+panorama_E626301C_CADE_ACDF_41BF_60E755EEE310.label = Lantai 2 - Bathroom 02
+panorama_E6268C77_CADE_D569_41C2_515F5CFF1D8F.label = Lantai 2 - Master Bedroom
+panorama_EDEBA470_CA4A_7567_41D2_3D0F3BD63280.label = Lantai 1 - Bedroom
+panorama_EDEC2E36_CA4A_54EB_41E2_BFAF8A61CE02.label = Lantai 1 - Dining
+panorama_EDEC7139_CA4A_6CD9_417C_62B925ABDE46.label = Lantai 1 - Living
+panorama_EDEC8B51_CA4A_BCA9_41E0_F713C85C6455.label = Lantai 1 - Area Laundry
+panorama_F5037C16_FA74_E3FB_41B5_B55B3D310C31.label = Emerald Hills Tipe L6
